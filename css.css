@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    width: 2000px;
+    height: 1000px;
+    border: 1px solid;
+    
+}
+header{
+    border: 1px solid;
+    width: 800px;
+    height: 100px;
+}
+main{
+    border: 4px solid;
+}
+#asi1{
+    width: 10rem;
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
